@@ -1,0 +1,1 @@
+import{i as e,n as t}from"./jsx-runtime-BnxRlLMJ.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>{let t=t=>{t.key===`Escape`&&(t.stopPropagation(),e())};window.addEventListener(`keydown`,t);let n=document.body.style.overflow;return document.body.style.overflow=`hidden`,()=>{window.removeEventListener(`keydown`,t),document.body.style.overflow=n}},[e])}export{r as t};
