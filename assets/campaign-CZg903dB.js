@@ -1,0 +1,1 @@
+var e=[],t=[],n=[],r=[],i=[],a=[];export{i as ASPECTS,a as ENVIRONMENTS,r as MECHANICAL,t as NPCS,e as PLAYERS,n as SIMPLES};
